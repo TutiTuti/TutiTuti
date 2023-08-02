@@ -4,7 +4,8 @@
   
 ## 👋 OH HYEONG SANG 👋 
 
-  ####  🦁 멋쟁이사자처럼 백엔드 스쿨 2기 수료   
+  ####  모블교육센터 | 디지털컨버전스를 위한 스마트디바이스 연동 및 융합 SW개발 수료
+  ####  삼성 | 청년 SW 아카데미 교육중
   
   <img src="https://github-readme-stats.vercel.app/api?username=TutiTuti"/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=TutiTuti"/>
