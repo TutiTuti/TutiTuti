@@ -8,7 +8,7 @@
   ####  삼성 | 청년 SW 아카데미 교육중
   
   <img src="https://github-readme-stats.vercel.app/api?username=TutiTuti"/>
-#  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=TutiTuti"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=TutiTuti"/>
 
   <br>
  
