@@ -36,8 +36,6 @@
 <h5> DevOps </h5>
 <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=github actions&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/aws S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
-<img src="https://img.shields.io/badge/aws EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
 <br/>
 
 <h5> Tool & Collaboration </h5>
